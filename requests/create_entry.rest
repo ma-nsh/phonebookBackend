@@ -1,0 +1,7 @@
+POST https://phonebook-backend-dvs8.onrender.com/api/persons
+Content-Type: application/json
+
+{
+    "name": "Pashupati Prasad",
+    "number": "0000000000"
+}
